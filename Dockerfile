@@ -1,6 +1,3 @@
-ARG FROM_REPO
-ARG linuxTag
-
 #####
 # ActiveMQ download stage
 #####
